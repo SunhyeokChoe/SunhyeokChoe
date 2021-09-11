@@ -28,7 +28,17 @@
     <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 <p>
-    <img src="https://img.shields.io/badge/AWS-E16008?style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Amazon Lambda-E16008?style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Amazon EC2-E16008?style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Amazon SQS-E16008?style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
+</p>
+<p>
+    <img src="https://img.shields.io/badge/Amazon EventBridge-E16008?style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Amazon API Gateway-E16008?style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Amazon CloudWatch-E16008?style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
+</p>
+<p>
     <img src="https://img.shields.io/badge/.NET-03A5FC?style=for-the-badge&logo=.net&logoColor=white"/>
     <img src="https://img.shields.io/badge/WPF-6B03FC?style=for-the-badge&logo=Windows&logoColor=white"/>
     <img src="https://img.shields.io/badge/Windows Forms-0173D4?style=for-the-badge&logo=Windows&logoColor=white"/>
@@ -37,6 +47,11 @@
 </p>
 <p>
     <img src="https://img.shields.io/badge/mysql-15008C.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MongoDB-C70458.svg?style=for-the-badge&logo=mariadb&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+</p>
+<p>
+    <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white"/>
     <img src="https://img.shields.io/badge/MongoDB-C70458.svg?style=for-the-badge&logo=mariadb&logoColor=white"/>
     <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
 </p>
