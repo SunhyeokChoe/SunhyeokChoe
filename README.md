@@ -1,9 +1,9 @@
 ### @SunhyeokChoe
 
 > 👋 Hi! Welcome to my Github profile!
-> I'm Sunhyeok Choe who is interested in web fullstack and pc program development.
+> I'm Sunhyeok Choe who is interested in web fullstack and pc program development. ***
 
-***"If you cannot fly then run,<br/>If you cannot run, then walk,<br/>And, if you cannot walk, then crawl,<br/>but whatever you do,<br/>you have to keep moving forward."<br/>&mdash; Martin Luther King Jr.***
+***"If you can't fly, then run,<br/>If you can't run, then walk,<br/>If you can't walk, then crawl,<br/>but whatever you do,<br/>you have to keep moving forward."<br/>&mdash; Martin Luther King Jr.***
 ---
 
 - 👩🏻‍💼 Junior Fullstack & PC program developer
