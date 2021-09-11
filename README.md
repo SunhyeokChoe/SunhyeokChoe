@@ -19,7 +19,7 @@
 
 ## 👩🏻‍💻 Tech Stack
 <p>
-    <img src="https://img.shields.io/badge/C Sharp-6B03FC?style=for-the-badge&logo=c sharp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C%23-6B03FC?style=for-the-badge&logo=c sharp&logoColor=white"/>
     <img src="https://img.shields.io/badge/C++-3766AB?style=for-the-badge&logo=C++&logoColor=white"/>
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
     <img src="https://img.shields.io/badge/Javascript-ffb13b?style=for-the-badge&logo=javascript&logoColor=white"/>
