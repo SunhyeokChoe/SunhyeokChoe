@@ -46,12 +46,9 @@
     <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white"/>
 </p>
 <p>
+    <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
     <img src="https://img.shields.io/badge/mysql-15008C.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img src="https://img.shields.io/badge/MongoDB-C70458.svg?style=for-the-badge&logo=mariadb&logoColor=white"/>
-    <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
-</p>
-<p>
     <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MongoDB-C70458.svg?style=for-the-badge&logo=mariadb&logoColor=white"/>
-    <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"/>
 </p>
