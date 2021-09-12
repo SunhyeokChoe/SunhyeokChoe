@@ -6,8 +6,8 @@
 ***"If you can't fly, then run,<br/>If you can't run, then walk,<br/>If you can't walk, then crawl,<br/>but whatever you do,<br/>you have to keep moving forward."<br/>&mdash; Martin Luther King Jr.***
 ---
 
-- 👩🏻‍💼 Junior Fullstack & PC program developer
-- 💻 Usually using C#, JavaScript language for programmming
+- 👩🏻‍💼 I’m Junior Fullstack & PC program developer
+- 💻 I Usually using C#, JavaScript language for programmming
 - 🌱 I’m currently learning SpringBoot 2.0
 
 [![streak](https://github-readme-streak-stats.herokuapp.com/?user=SunhyeokChoe&theme=calm)](https://github.com/SunhyeokChoe)
