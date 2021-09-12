@@ -7,7 +7,7 @@
 ---
 
 - 👩🏻‍💼 I’m Junior Fullstack & PC program developer
-- 💻 I Usually using C#, JavaScript language for programmming
+- 💻 I Usually using C#, JavaScript language for programming
 - 🌱 I’m currently learning SpringBoot 2.0
 
 [![streak](https://github-readme-streak-stats.herokuapp.com/?user=SunhyeokChoe&theme=calm)](https://github.com/SunhyeokChoe)
@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 <p>
-    <img src="https://img.shields.io/badge/Amazon Lambda-E16008?style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
+    <img src="https://img.shields.io/badge/AWS Lambda-E16008?style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
     <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white"/>
     <img src="https://img.shields.io/badge/Amazon EC2-E16008?style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
     <img src="https://img.shields.io/badge/Amazon SQS-E16008?style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
