@@ -8,7 +8,7 @@
 
 - 👩🏻‍💼 I’m Junior Fullstack & PC program developer
 - 💻 I Usually using C#, JavaScript language for programming
-- 🌱 I’m currently learning SpringBoot 2.0
+- 🌱 I’m currently learning oneM2M, SpringBoot 2.0
 
 [![streak](https://github-readme-streak-stats.herokuapp.com/?user=SunhyeokChoe&theme=calm)](https://github.com/SunhyeokChoe)
 [![SunhyeokChoe's github stats](https://github-readme-stats.vercel.app/api?username=SunhyeokChoe&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=onedark)](https://github.com/SunhyeokChoe)
