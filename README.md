@@ -39,6 +39,7 @@
     <img src="https://img.shields.io/badge/Amazon EventBridge-E16008?style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
     <img src="https://img.shields.io/badge/Amazon API Gateway-E16008?style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
     <img src="https://img.shields.io/badge/Amazon CloudWatch-E16008?style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Amazon Route 53-E16008?style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
 </p>
 <p>
     <img src="https://img.shields.io/badge/.NET-03A5FC?style=for-the-badge&logo=.net&logoColor=white"/>
