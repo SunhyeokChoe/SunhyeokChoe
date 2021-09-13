@@ -33,6 +33,7 @@
     <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white"/>
     <img src="https://img.shields.io/badge/Amazon EC2-E16008?style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
     <img src="https://img.shields.io/badge/Amazon SQS-E16008?style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Amazon DynamoDB-E16008?style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
 </p>
 <p>
     <img src="https://img.shields.io/badge/Amazon EventBridge-E16008?style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
