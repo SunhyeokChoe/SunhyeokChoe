@@ -12,7 +12,7 @@
 
 [![streak](https://github-readme-streak-stats.herokuapp.com/?user=SunhyeokChoe&theme=calm)](https://github.com/SunhyeokChoe)
 [![SunhyeokChoe's github stats](https://github-readme-stats.vercel.app/api?username=SunhyeokChoe&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=onedark)](https://github.com/SunhyeokChoe)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunhyeokChoe&langs_count=10&exclude_repo=IoTSharp,awesome-wiki,InplaceEditBoxLib,awesome-avalonia,gitignore,allive,FinanceDataReader,ookii-dialogs-wpf,use-asset,MessageBox.Avalonia,covid19india-react,twitter-korean-text,git-usage,devil-glitches&layout=compact&langs_count=8&theme=onedark)](https://github.com/SunhyeokChoe)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunhyeokChoe&langs_count=8&count_private=true&exclude_repo=IoTSharp,awesome-wiki,InplaceEditBoxLib,awesome-avalonia,gitignore,allive,FinanceDataReader,ookii-dialogs-wpf,use-asset,MessageBox.Avalonia,covid19india-react,twitter-korean-text,git-usage,devil-glitches&layout=compact&theme=onedark)](https://github.com/SunhyeokChoe)
 
 ### 🔭 I’m currently working on
 - Nara Controls (June 2019 ~ Present)
