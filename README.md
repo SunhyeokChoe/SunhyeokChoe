@@ -12,7 +12,7 @@
 
 [![streak](https://github-readme-streak-stats.herokuapp.com/?user=SunhyeokChoe&theme=calm)](https://github.com/SunhyeokChoe)
 [![SunhyeokChoe's github stats](https://github-readme-stats.vercel.app/api?username=SunhyeokChoe&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=onedark)](https://github.com/SunhyeokChoe)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunhyeokChoe&exclude_repo=IoTSharp,awesome-wiki,InplaceEditBoxLib,awesome-avalonia,gitignore,allive,FinanceDataReader,ookii-dialogs-wpf,use-asset,MessageBox.Avalonia,covid19india-react,twitter-korean-text,git-usage,devil-glitches&layout=compact&langs_count=8&theme=onedark)](https://github.com/SunhyeokChoe)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunhyeokChoe&langs_count=10&exclude_repo=IoTSharp,awesome-wiki,InplaceEditBoxLib,awesome-avalonia,gitignore,allive,FinanceDataReader,ookii-dialogs-wpf,use-asset,MessageBox.Avalonia,covid19india-react,twitter-korean-text,git-usage,devil-glitches&layout=compact&langs_count=8&theme=onedark)](https://github.com/SunhyeokChoe)
 
 ### 🔭 I’m currently working on
 - Nara Controls (June 2019 ~ Present)
@@ -47,6 +47,7 @@
     <img src="https://img.shields.io/badge/Windows Forms-0173D4?style=for-the-badge&logo=Windows&logoColor=white"/>
     <img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"/>
 </p>
 <p>
     <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
