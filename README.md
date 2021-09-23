@@ -1,7 +1,5 @@
-[![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&fontSize=90&text=Sunhyeok%20Choe)](https://github.com/SunhyeokChoe)
-
-> 👋 Hi! Welcome to my Github profile!
-> I'm Sunhyeok Choe who is interested in web fullstack & pc program development.
+[![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&fontSize=90&text=Sunhyeok%20Choe)](https://github.com/SunhyeokChoe)
+> 👋 Hi! Welcome to my Github profile! I'm Sunhyeok Choe who is interested in web fullstack & pc program development.
 
 ***"If you can't fly, then run,<br/>If you can't run, then walk,<br/>If you can't walk, then crawl,<br/>but whatever you do,<br/>you have to keep moving forward."<br/>&mdash; Martin Luther King Jr.***
 ---
