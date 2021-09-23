@@ -1,4 +1,4 @@
-### @SunhyeokChoe
+[![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Sunhyeok%20Choe%20&fontSize=100)](https://github.com/SunhyeokChoe)
 
 > 👋 Hi! Welcome to my Github profile!
 > I'm Sunhyeok Choe who is interested in web fullstack & pc program development.
@@ -56,3 +56,5 @@
     <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white"/>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"/>
 </p>
+
+![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer&text=%20&fontSize=100)
