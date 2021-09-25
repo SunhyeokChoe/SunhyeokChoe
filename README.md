@@ -43,6 +43,7 @@
     <img src="https://img.shields.io/badge/.NET-03A5FC?style=for-the-badge&logo=.net&logoColor=white"/>
     <img src="https://img.shields.io/badge/WPF-6B03FC?style=for-the-badge&logo=Windows&logoColor=white"/>
     <img src="https://img.shields.io/badge/Windows Forms-0173D4?style=for-the-badge&logo=Windows&logoColor=white"/>
+    <img src="https://img.shields.io/badge/UWP-0173D4?style=for-the-badge&logo=Windows&logoColor=white"/>
     <img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white"/>
     <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"/>
