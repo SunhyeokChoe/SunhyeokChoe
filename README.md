@@ -1,7 +1,7 @@
 [![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&fontSize=90&text=Sunhyeok%20Choe)](https://github.com/SunhyeokChoe)
 > 👋 Hi! Welcome to my Github profile! I'm Sunhyeok Choe who is interested in web fullstack & pc program development.
 
-- 👩🏻‍💼 I’m Junior Fullstack & PC program developer
+- 👩🏻‍💼 I’m junior web fullstack & PC program developer
 - 💻 I usually use C#, JavaScript language for programming
 - 🌱 I’m currently learning oneM2M, SpringBoot 2.0
 
