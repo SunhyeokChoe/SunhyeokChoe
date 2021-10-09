@@ -35,6 +35,7 @@
     <img src="https://img.shields.io/badge/WPF-6B03FC?style=for-the-badge&logo=Windows&logoColor=white"/>
     <img src="https://img.shields.io/badge/Windows Forms-0173D4?style=for-the-badge&logo=Windows&logoColor=white"/>
     <img src="https://img.shields.io/badge/UWP-0173D4?style=for-the-badge&logo=Windows&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MVVM-0b032d?style=for-the-badge&logoColor=white"/>
 </p>
 <p>
     <img src="https://img.shields.io/badge/mysql-15008C.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -56,4 +57,7 @@
 <p>
     <img src="https://img.shields.io/badge/Amazon Route 53-E16008?style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
     <img src="https://img.shields.io/badge/Amazon DynamoDB-E16008?style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
+</p>
+<p>
+    <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=white"/>
 </p>
