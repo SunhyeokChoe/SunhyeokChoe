@@ -12,7 +12,7 @@
 ### 🔭 I’m currently working on
 - Nara Controls (June 2019 ~ Present)
 
-## 👩🏻‍💻 Tech Stack
+## 👩🏻‍💻 Tech Stack [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/sunhyeokchoe/my-stack)
 <p>
     <img src="https://img.shields.io/badge/C%23-6B03FC?style=for-the-badge&logo=c sharp&logoColor=white"/>
     <img src="https://img.shields.io/badge/C++-3766AB?style=for-the-badge&logo=C++&logoColor=white"/>
