@@ -58,7 +58,3 @@
     <img src="https://img.shields.io/badge/Amazon Route 53-E16008?style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
     <img src="https://img.shields.io/badge/Amazon DynamoDB-E16008?style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
 </p>
-<p>
-    <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
-</p>
