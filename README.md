@@ -6,6 +6,24 @@
 - 🌱 I’m currently learning oneM2M, SpringBoot 2.0
 
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    98 commits     ██████░░░░░░░░░░░░░░░░░░░   24.5% 
+🌆 Daytime    168 commits    ██████████░░░░░░░░░░░░░░░   42.0% 
+🌃 Evening    127 commits    ████████░░░░░░░░░░░░░░░░░   31.75% 
+🌙 Night      7 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.75%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+```
+
+
+ Last Updated on 10/10/2021
 <!--END_SECTION:waka-->
 
 [![streak](https://github-readme-streak-stats.herokuapp.com/?user=SunhyeokChoe&theme=calm)](https://github.com/SunhyeokChoe)
