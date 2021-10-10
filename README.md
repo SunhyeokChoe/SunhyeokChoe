@@ -63,18 +63,6 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-53-blue)
 
-**🐱 My GitHub Data** 
-
-> 🏆 649 Contributions in the Year 2021
- > 
-> 📦 805.7 kB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 34 Public Repositories 
- > 
-> 🔑 17 Private Repositories  
- > 
 **I'm an Early 🐤** 
 
 ```text
@@ -84,54 +72,15 @@
 🌙 Night      7 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.76%
 
 ```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       61 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.33% 
-Tuesday      62 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.58% 
-Wednesday    56 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.07% 
-Thursday     74 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.59% 
-Friday       74 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.59% 
-Saturday     29 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.29% 
-Sunday       42 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.55%
-
-```
 
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Asia/Seoul
-
 💬 Programming Languages: 
 No Activity Tracked This Week
 
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
 ```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               6 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
-C#                       4 repos             █████░░░░░░░░░░░░░░░░░░░░   22.22% 
-C++                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-Java                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.56%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/SunhyeokChoe/SunhyeokChoe/master/charts/bar_graph.png) 
 
 
  Last Updated on 10/10/2021
