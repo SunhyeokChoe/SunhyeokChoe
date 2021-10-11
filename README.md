@@ -1,5 +1,5 @@
 [![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&fontSize=90&text=Sunhyeok%20Choe)](https://github.com/SunhyeokChoe)
-> 👋 Hi! Welcome to my Github profile! I'm Sunhyeok Choe who is interested in web fullstack & pc program development.
+> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi! Welcome to my Github profile! I'm Sunhyeok Choe who is interested in web fullstack & pc program development.
 
 - 👩🏻‍💼 I’m junior web fullstack & PC program developer
 - 💻 I usually use C#, JavaScript language for programming
