@@ -5,27 +5,6 @@
 - 💻 I usually use C#, JavaScript language for programming
 - 🌱 I’m currently learning oneM2M, SpringBoot 2.0
 
-<!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    98 commits     ██████░░░░░░░░░░░░░░░░░░░   24.5% 
-🌆 Daytime    168 commits    ██████████░░░░░░░░░░░░░░░   42.0% 
-🌃 Evening    127 commits    ████████░░░░░░░░░░░░░░░░░   31.75% 
-🌙 Night      7 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.75%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-```
-
-
- Last Updated on 11/10/2021
-<!--END_SECTION:waka-->
-
 [![streak](https://github-readme-streak-stats.herokuapp.com/?user=SunhyeokChoe&theme=calm)](https://github.com/SunhyeokChoe)
 [![SunhyeokChoe's github stats](https://github-readme-stats.vercel.app/api?username=SunhyeokChoe&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=onedark)](https://github.com/SunhyeokChoe)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunhyeokChoe&langs_count=8&count_private=true&exclude_repo=IoTSharp,awesome-wiki,InplaceEditBoxLib,awesome-avalonia,gitignore,allive,FinanceDataReader,ookii-dialogs-wpf,use-asset,MessageBox.Avalonia,covid19india-react,twitter-korean-text,git-usage,devil-glitches&layout=compact&theme=onedark)](https://github.com/SunhyeokChoe)
