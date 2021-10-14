@@ -15,7 +15,8 @@
 ## 👩🏻‍💻 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/sunhyeokchoe/my-stack)
 <p>
     <img src="https://img.shields.io/badge/C%23-6B03FC?style=for-the-badge&logo=c sharp&logoColor=white"/>
-    <img src="https://img.shields.io/badge/C++-3766AB?style=for-the-badge&logo=C++&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
     <img src="https://img.shields.io/badge/Javascript-ffb13b?style=for-the-badge&logo=javascript&logoColor=white"/>
     <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"/>
