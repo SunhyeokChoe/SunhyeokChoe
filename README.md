@@ -10,7 +10,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunhyeokChoe&langs_count=8&count_private=true&exclude_repo=IoTSharp,awesome-wiki,InplaceEditBoxLib,awesome-avalonia,gitignore,allive,FinanceDataReader,ookii-dialogs-wpf,use-asset,MessageBox.Avalonia,covid19india-react,twitter-korean-text,git-usage,devil-glitches&layout=compact&theme=onedark)](https://github.com/SunhyeokChoe)
 
 ### 🔭 I’m currently working on
-- Nara Controls (June 2019 ~ Present)
+- Nara Controls (June 2019 ~ Nov 2021)
 
 ## 👩🏻‍💻 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/sunhyeokchoe/my-stack)
 <p>
