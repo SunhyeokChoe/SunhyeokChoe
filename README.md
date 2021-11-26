@@ -9,7 +9,9 @@
 - Nara Controls (June 2019 ~ Nov 2021)
 - On vacation until December 21th.
 
-## My Github Stats
+<h2 align="center">
+    My Github Stats
+</h2>
 <p align = "center" style="margin-bottom: 10px;">
     <img src = "https://github-readme-streak-stats.herokuapp.com/?user=SunhyeokChoe&theme=calm">
 </p>
@@ -29,7 +31,7 @@
     </a>
 </p>
 
-<h2>
+<h2 align="center">
     <a href="https://stackshare.io/sunhyeokchoe/my-stack">
         <img src="https://img.shields.io/badge/Tech-Stack-0690fa.svg" height="30" />
     </a>
