@@ -10,17 +10,17 @@
 - On vacation until December 21th.
 
 ## My Github Stats
-<p align="center" style="margin-bottom: 10px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=SunhyeokChoe&column=7&theme=onedark"/>
-</p>
-
 <p align = "center" style="margin-bottom: 10px;">
     <img src = "https://github-readme-streak-stats.herokuapp.com/?user=SunhyeokChoe&theme=calm">
 </p>
 
 <p align = "center" style="margin-bottom: 10px;">
-    <img src = "https://github-readme-stats.vercel.app/api?username=SunhyeokChoe&show_icons=true&count_private=true&include_all_commits=true&theme=onedark">
+    <img src = "https://github-readme-stats.vercel.app/api?username=SunhyeokChoe&show_icons=true&count_private=true&include_all_commits=true&theme=onedark&hide_rank=true">
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SunhyeokChoe&langs_count=8&count_private=true&exclude_repo=IoTSharp,awesome-wiki,InplaceEditBoxLib,awesome-avalonia,gitignore,allive,FinanceDataReader,ookii-dialogs-wpf,use-asset,MessageBox.Avalonia,covid19india-react,twitter-korean-text,git-usage,devil-glitches&layout=compact&theme=onedark">
+</p>
+
+<p align="center" style="margin-bottom: 10px;">
+    <img src="https://github-profile-trophy.vercel.app/?username=SunhyeokChoe&column=7&theme=onedark"/>
 </p>
 
 <p align = "center">
