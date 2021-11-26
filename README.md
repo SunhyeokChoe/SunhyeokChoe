@@ -29,7 +29,7 @@
     </a>
 </p>
 
-<h2 style="border-bottom: 1px solid var(--color-border-muted); font-size: 1.5em; padding-bottom: .3em;">
+<h2>
     <a href="https://stackshare.io/sunhyeokchoe/my-stack">
         <img src="https://img.shields.io/badge/Tech-Stack-0690fa.svg" height="30" />
     </a>
