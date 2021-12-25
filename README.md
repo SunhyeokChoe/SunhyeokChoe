@@ -7,7 +7,7 @@
 
 ### 🔭 I’m currently working on
 - Nara Controls (June 2019 ~ Nov 2021)
-- On vacation until December 21th.
+- On vacation until December 31th.
 
 <h2 align="center">
     My Github Stats
