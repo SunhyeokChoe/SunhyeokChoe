@@ -38,7 +38,7 @@
 <h2/>
 <div align="center">
     <p>
-        <img src="https://img.shields.io/badge/C%23-6B03FC?style=for-the-badge&logo=c sharp&logoColor=white"/>
+        <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=C%20Sharp&logoColor=white"/>
         <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
         <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
@@ -71,25 +71,25 @@
         <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"/>
     </p>
     <p>
-        <img src="https://img.shields.io/badge/AWS Lambda-E16008?style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Amazon EC2-E16008?style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Amazon SQS-E16008?style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Amazon SNS-E16008?style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AWS%20Lambda-E16008?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=Amazon%20S3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Amazon%20EC2-E16008?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Amazon%20SQS-E16008?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Amazon%20SNS-E16008?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/>
     </p>
     <p>
-        <img src="https://img.shields.io/badge/Amazon API Gateway-E16008?style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Amazon CodeCommit-E16008?style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Amazon CodePipeline-E16008?style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Amazon%20API%20Gateway-E16008?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Amazon%20CodeCommit-E16008?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Amazon%20CodePipeline-E16008?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/>
     </p>
     <p>
-        <img src="https://img.shields.io/badge/Amazon CloudWatch-E16008?style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Amazon CloudFormation-E16008?style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Amazon CloudFront-E16008?style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Amazon%20CloudWatch-E16008?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Amazon%20CloudFormation-E16008?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Amazon%20CloudFront-E16008?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/>
     </p>
     <p>
-        <img src="https://img.shields.io/badge/Amazon EventBridge-E16008?style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Amazon Route 53-E16008?style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Amazon DynamoDB-E16008?style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Amazon%20EventBridge-E16008?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Amazon%20Route 53-E16008?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Amazon%20DynamoDB-E16008?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/>
     </p>
 </div>
