@@ -59,6 +59,7 @@
     </p>
     <p>
         <img src="https://img.shields.io/badge/React.js-47848F?style=for-the-badge&logo=react&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next%2Ejs&logoColor=white"/>
         <img src="https://img.shields.io/badge/Electron.js-61DAFB?style=for-the-badge&logo=Electron&logoColor=white"/>
         <img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
         <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white"/>
