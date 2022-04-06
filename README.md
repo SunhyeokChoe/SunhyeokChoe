@@ -49,18 +49,19 @@
         <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"/>
     </p>
     <p>
+        <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Nest.JS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React.js-47848F?style=for-the-badge&logo=react&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next%2Ejs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Electron.js-61DAFB?style=for-the-badge&logo=Electron&logoColor=white"/>
+    </p>
+    <p>
         <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
         <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
         <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=Tailwind%20CSS&logoColor=white"/>
         <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styled%2Dcomponents&logoColor=white"/>
         <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white"/>
-    </p>
-    <p>
-        <img src="https://img.shields.io/badge/React.js-47848F?style=for-the-badge&logo=react&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next%2Ejs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Electron.js-61DAFB?style=for-the-badge&logo=Electron&logoColor=white"/>
-        <img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white"/>
     </p>
     <p>
         <img src="https://img.shields.io/badge/.NET-03A5FC?style=for-the-badge&logo=.net&logoColor=white"/>
