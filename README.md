@@ -3,7 +3,7 @@
 
 - 👩🏻‍💼 I’m junior web fullstack & PC program developer
 - 💻 I usually use C#, TypeScript language for programming
-- 🌱 I’m currently learning System Architecture, Golang, SpringBoot 2.0
+- 🌱 I’m currently learning System Architecture, Golang, NestJS
 
 ### 🔭 I’m currently working on
 - Nara Controls (June 2019 ~ Nov 2021)
