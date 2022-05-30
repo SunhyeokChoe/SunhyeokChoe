@@ -78,7 +78,6 @@
         <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"/>
     </p>
     <p>
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white"/>
         <img src="https://img.shields.io/badge/AWS%20Lambda-E16008?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/>
         <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=Amazon%20S3&logoColor=white"/>
         <img src="https://img.shields.io/badge/Amazon%20EC2-E16008?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/>
