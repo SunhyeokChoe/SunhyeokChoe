@@ -59,6 +59,7 @@
         <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
         <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styled%2Dcomponents&logoColor=white"/>
         <img src="https://img.shields.io/badge/stitches-2A214D?style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white"/>
     </p>
     <p>
         <img src="https://img.shields.io/badge/.NET-03A5FC?style=for-the-badge&logo=.net&logoColor=white"/>
