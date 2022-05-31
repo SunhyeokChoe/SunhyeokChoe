@@ -45,7 +45,6 @@
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
         <img src="https://img.shields.io/badge/Javascript-ffb13b?style=for-the-badge&logo=javascript&logoColor=white"/>
         <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"/>
     </p>
     <p>
@@ -54,20 +53,17 @@
         <img src="https://img.shields.io/badge/Nest.JS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white"/>
         <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next%2Ejs&logoColor=white"/>
         <img src="https://img.shields.io/badge/React.js-47848F?style=for-the-badge&logo=react&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Electron.js-61DAFB?style=for-the-badge&logo=Electron&logoColor=white"/>
     </p>
     <p>
         <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
         <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
         <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styled%2Dcomponents&logoColor=white"/>
         <img src="https://img.shields.io/badge/stitches-2A214D?style=for-the-badge"/>
-        <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white"/>
     </p>
     <p>
         <img src="https://img.shields.io/badge/.NET-03A5FC?style=for-the-badge&logo=.net&logoColor=white"/>
         <img src="https://img.shields.io/badge/WPF-6B03FC?style=for-the-badge&logo=Windows&logoColor=white"/>
         <img src="https://img.shields.io/badge/Windows Forms-0173D4?style=for-the-badge&logo=Windows&logoColor=white"/>
-        <img src="https://img.shields.io/badge/UWP-0173D4?style=for-the-badge&logo=Windows&logoColor=white"/>
         <img src="https://img.shields.io/badge/MVVM-0b032d?style=for-the-badge&logoColor=white"/>
     </p>
     <p>
