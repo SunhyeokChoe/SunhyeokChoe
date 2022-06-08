@@ -62,17 +62,17 @@
         <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white"/>
     </p>
     <p>
-        <img src="https://img.shields.io/badge/.NET-03A5FC?style=for-the-badge&logo=.net&logoColor=white"/>
-        <img src="https://img.shields.io/badge/WPF-6B03FC?style=for-the-badge&logo=Windows&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Windows Forms-0173D4?style=for-the-badge&logo=Windows&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MVVM-0b032d?style=for-the-badge&logoColor=white"/>
-    </p>
-    <p>
         <img src="https://img.shields.io/badge/mysql-15008C.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
         <img src="https://img.shields.io/badge/MariaDB-003545.svg?style=for-the-badge&logo=MariaDB&logoColor=white"/>
         <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white"/>
         <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white"/>
         <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"/>
+    </p>
+    <p>
+        <img src="https://img.shields.io/badge/.NET-03A5FC?style=for-the-badge&logo=.net&logoColor=white"/>
+        <img src="https://img.shields.io/badge/WPF-6B03FC?style=for-the-badge&logo=Windows&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Windows Forms-0173D4?style=for-the-badge&logo=Windows&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MVVM-0b032d?style=for-the-badge&logoColor=white"/>
     </p>
     <p>
         <img src="https://img.shields.io/badge/Amazon Web Services-E16008?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/>
