@@ -1,13 +1,11 @@
 [![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&fontSize=90&text=Sunhyeok%20Choe)](https://github.com/SunhyeokChoe)
 > <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px" /> Hi! Welcome to my Github profile! I'm Sunhyeok Choe who is interested in web fullstack development.
-
-- 👩🏻‍💼 I’m junior web back-end and PC program developer
-- 💻 I usually use TypeScript, C# language for programming
-- 🌱 I’m currently learning NestJS, System Architecture
-
-### 🔭 I’m currently working on
-- Nara Controls (June 2019 ~ Nov 2021)
-- On vacation until December 31th.
+    
+- 👩🏻‍💼 I’m junior web **back-end** and **PC program** developer
+- 💻 I usually use **TypeScript**, **C#** language for programming
+- 🌱 I’m currently learning **NestJS**, **System Architecture**
+- 📝 I regularly write on ***[https://sunhyeokchoe.github.io/](https://sunhyeokchoe.github.io/)***
+- ⚡ Connect me via - ***hackerwreckers@gmail.com***
 
 <h2 align="center">
     My Github Stats
