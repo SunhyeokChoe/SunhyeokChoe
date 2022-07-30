@@ -3,7 +3,7 @@
     
 - 👩🏻‍💼 I’m junior web **back-end** and **PC program** developer
 - 💻 I usually use **TypeScript**, **C#** language for programming
-- 🌱 I’m currently learning **NestJS**, **System Architecture**
+- 🌱 I’m currently learning **NestJS**
 - 📝 I regularly write on ***[https://sunhyeokchoe.github.io/](https://sunhyeokchoe.github.io/)***
 - ⚡ Connect me via - ***hackerwreckers@gmail.com***
 
