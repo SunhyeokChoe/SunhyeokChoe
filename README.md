@@ -3,7 +3,6 @@
     
 - 👩🏻‍💼 I’m junior web **back-end** and **PC program** developer
 - 💻 I usually use **TypeScript**, **C#** language for programming
-- 🌱 I’m currently learning **NestJS**
 - 📝 I regularly write on ***[https://sunhyeokchoe.github.io/](https://sunhyeokchoe.github.io/)***
 - ⚡ Connect me via - ***hackerwreckers@gmail.com***
 
@@ -39,8 +38,6 @@
 <div align="center">
     <p>
         <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=C%20Sharp&logoColor=white"/>
-        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
         <img src="https://img.shields.io/badge/Javascript-ffb13b?style=for-the-badge&logo=javascript&logoColor=white"/>
         <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"/>
         <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"/>
@@ -49,7 +46,6 @@
         <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
         <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white"/>
         <img src="https://img.shields.io/badge/Nest.JS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next%2Ejs&logoColor=white"/>
         <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
     </p>
     <p>
