@@ -11,10 +11,6 @@
 
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SunhyeokChoe&theme=monokai" alt="SunhyeokChoe" align = "center"/>
 
-<p align="center" style="margin-bottom: 10px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=SunhyeokChoe&column=7&theme=onedark"/>
-</p>
-
 <p align = "center">
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img alt="SunhyeokChoe's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SunhyeokChoe&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
