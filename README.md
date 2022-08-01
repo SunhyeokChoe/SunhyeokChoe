@@ -4,14 +4,10 @@
 - 👩🏻‍💼 I’m junior web **back-end** and **PC program** developer
 - 💻 I usually use **TypeScript**, **C#** language for programming
 - 📝 I regularly write on ***[https://sunhyeokchoe.github.io/](https://sunhyeokchoe.github.io/)***
-- ⚡ Connect me via - ***hackerwreckers@gmail.com***
 
 <h2 align="center">
     My Github Stats
 </h2>
-<p align = "center" style="margin-bottom: 10px;">
-    <img src = "https://github-readme-streak-stats.herokuapp.com/?user=SunhyeokChoe&theme=calm">
-</p>
 
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SunhyeokChoe&theme=monokai" alt="SunhyeokChoe" align = "center"/>
 
