@@ -3,7 +3,6 @@
     
 - 👩🏻‍💼 I’m junior web **back-end** and **PC program** developer
 - 💻 I usually use **TypeScript**, **C#** language for programming
-- 📝 I regularly write on ***[https://sunhyeokchoe.github.io/](https://sunhyeokchoe.github.io/)***
 
 <h2 align="center">
     My Github Stats
