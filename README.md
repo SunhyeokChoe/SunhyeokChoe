@@ -1,10 +1,5 @@
-[![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&fontSize=90&text=Sunhyeok%20Choe)](https://github.com/SunhyeokChoe)
-    
-- 👩🏻‍💼 I’m junior web **back-end** and **PC program** developer
-- 💻 I usually use **TypeScript**, **C#** language for programming
-
 <h2 align="center">
-    My Github Stats
+    My Github Stats & Tech Stacks
 </h2>
 
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SunhyeokChoe&theme=monokai" alt="SunhyeokChoe" align = "center"/>
