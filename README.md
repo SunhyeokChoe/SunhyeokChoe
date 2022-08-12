@@ -25,7 +25,6 @@
 <div align="center">
     <p>
         <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=C%20Sharp&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Javascript-ffb13b?style=for-the-badge&logo=javascript&logoColor=white"/>
         <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"/>
         <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"/>
     </p>
@@ -40,11 +39,9 @@
         <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
         <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styled%2Dcomponents&logoColor=white"/>
         <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=Tailwind%2DCSS&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white"/>
     </p>
     <p>
         <img src="https://img.shields.io/badge/mysql-15008C.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MariaDB-003545.svg?style=for-the-badge&logo=MariaDB&logoColor=white"/>
         <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white"/>
         <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"/>
     </p>
